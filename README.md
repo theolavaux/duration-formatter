@@ -4,7 +4,7 @@ Node script to parse dates from numbers in seconds.
 
 ## Getting started
 
-First, install dependencies (for now, I only use Typescript to compile the script to js, so, quite a light install) 😄
+First, install dependencies
 
 ```sh
 npm i
@@ -16,7 +16,7 @@ OR
 yarn
 ```
 
-## Start counting!
+## Now you can start counting!
 
 _For example, 31719845 seconds equals 1 year, 2 days, 3 hours, 4 minutes and 5 seconds._
 
